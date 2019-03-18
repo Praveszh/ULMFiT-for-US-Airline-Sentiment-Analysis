@@ -1,1 +1,1 @@
-# ULMFiT model to Twitter US-Airlines Sentiment
+# ULMFiT model for Twitter US-Airlines Sentiment
